@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(87, 70, 235);
+    color: white;
+}
+
+section{
+    border-radius: 8px blue;
+    box-shadow: 8px 10px 5px rgb(89, 89, 245);
+    width: 650px;
+    padding: 10px;
+
+}
+
+button{
+    padding: 10px;
+    border: none;
+    outline: none;
+    background-color: rgb(35, 230, 18);
+    color: white;
+    cursor: pointer;
+    font: normal 14pt italic;
+}
+
+button:hover{
+    background-color: rgb(222, 243, 30);
+}
